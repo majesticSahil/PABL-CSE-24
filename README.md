@@ -1,2 +1,2 @@
 # PABL-CSE-24
-this is my college repository
+This is my college repository
